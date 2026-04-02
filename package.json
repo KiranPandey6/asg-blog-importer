@@ -1,0 +1,26 @@
+{
+  "name": "asg-blog-importer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "import.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiranPandey6/asg-blog-importer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KiranPandey6/asg-blog-importer/issues"
+  },
+  "homepage": "https://github.com/KiranPandey6/asg-blog-importer#readme",
+  "dependencies": {
+    "axios": "^1.14.0",
+    "cheerio": "^1.2.0",
+    "xml2js": "^0.6.2"
+  }
+}
