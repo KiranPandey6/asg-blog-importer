@@ -1,4 +1,4 @@
-const fetch = require("node-fetch");
+const fetch = require("cross-fetch");
 const xml2js = require("xml2js");
 const cheerio = require("cheerio");
 
